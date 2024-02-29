@@ -1,8 +1,5 @@
 import pandas as pd
 
-
-
-
 def merge_data(players, player_df):
     """Zwei for-Schleifen, die für das automatische Einlesen der csv Dateien sind.
         Erst werden die Fifa Teile iteriert von Fifa 20-24, anschließend die übergebenen Spieler in der Liste"""

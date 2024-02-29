@@ -18,6 +18,8 @@ if __name__ == "__main__":
     # da die Korrelation von Spielern auf den Preis analysiert werden soll
     correlation_matrix = data.corr()
     correlation_matrix = correlation_matrix['AveragePrice']
+    print("Korrelationen von Attributen auf den Preis als Tabelle:")
+    print(correlation_matrix)
 
 
 

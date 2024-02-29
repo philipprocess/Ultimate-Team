@@ -17,4 +17,8 @@ Klonen Sie dieses Repository auf Ihren lokalen Computer und navigieren Sie in da
 Führen Sie das Programm mit dem folgenden Befehl aus, sobald die benötigten Packages installiert sind:
 
 `python main.py`
+
+# GitHub Repository
+Dieses Projekt ist auch auf GitHub verfügbar unter dem Link:
+https://github.com/philipprocess/Ultimate-Team.git
 ```bash

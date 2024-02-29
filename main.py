@@ -7,7 +7,7 @@ players = ["Messi", "cristiano_ronaldo", "mbappe"]
 player_df = pd.DataFrame()
 
 data = merge_data(players, player_df)
-#Todo: Clean up data for corrmatrix
+#Todo: Clean up data for corrmatrixx
 correlation_matrix = data.corr()
 
 
